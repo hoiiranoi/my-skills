@@ -1,0 +1,4 @@
+interface:
+  display_name: "开发目录职责归类"
+  short_description: "理解开发需求，并为文件选择职责清晰的项目目录"
+  default_prompt: "使用 $organizing-project-files 理解这项开发需求，并决定文件的合理存放位置。"

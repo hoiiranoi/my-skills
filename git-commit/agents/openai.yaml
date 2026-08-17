@@ -1,0 +1,4 @@
+interface:
+  display_name: "Git Commit"
+  short_description: "根据实际改动按独立功能拆分提交并安全推送当前 Git 分支"
+  default_prompt: "Use $git-commit to split my current Git changes into focused commits and push them."
